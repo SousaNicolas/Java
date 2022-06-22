@@ -1,7 +1,10 @@
 public class HelloWorld {
 
     public static void main(String[] args){
-        system.out.println("Hello World! It is me, Nicolas!");
+        
+        System.out.println("Hello World! It is me, Nicolas!");
+
+        System.out.println("Hello World, testing a new line");
 
     }
 
