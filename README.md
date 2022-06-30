@@ -1,3 +1,3 @@
-Repositório dedicado ao estudo de java
+Repositório dedicado ao estudo de Java
 
 Nicolas Sousa
